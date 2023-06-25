@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"strictNullChecks": true,
+		"noImplicitAny": true,
+		"esModuleInterop": true,
+		"jsx": "react-jsx",
+		"module": "es6",
+		"target": "es5",
+		"moduleResolution": "node",
+		"outDir": "dist"
+	}
+}
